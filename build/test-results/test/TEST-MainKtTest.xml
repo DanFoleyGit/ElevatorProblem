@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainKtTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-03-14T22:43:57" hostname="Daniels-MacBook-Pro.local" time="0.041">
+  <properties/>
+  <testcase name="test GetBestLift with random lift with no direction()" classname="MainKtTest" time="0.035"/>
+  <testcase name="should call the furthest lift as all others are traveling away()" classname="MainKtTest" time="0.001"/>
+  <testcase name="should call the lift above when all lifts are going down()" classname="MainKtTest" time="0.001"/>
+  <testcase name="should call the lift above when all lifts are going UP()" classname="MainKtTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
